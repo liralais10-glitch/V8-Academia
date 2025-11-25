@@ -30,7 +30,7 @@
     <link rel="stylesheet" href="formulario.css">
 </head>
 <body>
-    <a href="home.php">Voltar</a>
+    <a href="index.html">Voltar</a>
     <div class="box">
         <form action="formulario.php" method="POST">
             <fieldset>
@@ -76,4 +76,5 @@
 
     </div>
 </body>
+
 </html>
